@@ -6,7 +6,7 @@ draft: false
 
 ___
 
-Haii! I am Riley, I am learning to code! 
+Haii! I am Riley, previously known as MustachedSquid, I am learning to code! 
 
 ___
 
