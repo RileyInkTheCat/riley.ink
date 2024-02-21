@@ -7,7 +7,7 @@ tags: ["tetris"]
 hideToc: true
 ---
 
-Tetris game in Java Script made by me.
+Tetris game in JavaScript made by me.
 
 [Source code](https://github.com/RileyInkTheCat/tetris)
 
